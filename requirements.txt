@@ -1,0 +1,17 @@
+# FastAPI and ASGI server
+fastapi
+uvicorn
+
+# Pydantic Settings for config management
+pydantic-settings
+
+# Testing
+pytest
+
+# Code formatting and linting
+black
+flake8
+isort
+
+# Optional: For async and advanced validation
+pydantic
